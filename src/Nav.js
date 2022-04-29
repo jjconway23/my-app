@@ -3,10 +3,14 @@ import React from "react"
 /* <FontAwesomeIcon icon="fa-solid fa-earth-americas" /> */
 export default function NavBar(){
     return (
-        <nav className="nav-bar flex">
+        <header>
+            <nav className="nav-bar flex container">
             <h1> my Travel Journey</h1>
 
-        </nav>
+            </nav>
+
+        </header>
+        
 
     )
 }

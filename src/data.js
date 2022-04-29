@@ -1,5 +1,6 @@
 export default [
     {
+        id:1,
         title: "The Caribbean Sea",
         location: "Montego Bay, Jamaica",
         googleMapsUrl: "https://goo.gl/maps/PZL81b5ukZ1i77G17",
@@ -9,6 +10,7 @@ export default [
         imageUrl: "../public/photos/jamaica-pic.jpg"
     },
     {
+        id:2,
         title: "Universal Studios",
         location: "Orlando, Florida",
         googleMapsUrl: "https://goo.gl/maps/sWcL8BLvZf5LSm7Q6",
@@ -17,7 +19,8 @@ export default [
         description: "Orlando, a city in central Florida, is home to more than a dozen theme parks. Chief among its claims to fame is Walt Disney World.  A large, well-known theme park featuring movie-themed rides & shows, plus hotels & restaurants.",
         imageUrl: "../public/photos/orlando.jpg"
     },
-    {
+    {   
+        id:3,
         title: "Maracas Beach",
         location: "Trinidad and Tobago",
         googleMapsUrl: "https://goo.gl/maps/DGcBqJxSetAryD8K9",
