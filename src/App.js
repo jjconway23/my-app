@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './Nav';
 
-function App() {
+export default function App() {
   return (
-    <></>
+    <div className="container">
+      <NavBar />
+    </div>
   );
 }
 
-export default App;
