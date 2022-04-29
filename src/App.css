@@ -32,3 +32,13 @@ h1,h2,h3,h4{
   color: #DFDCE3;
   font-size: 1.4rem;
 }
+.card-img{
+  object-fit: cover;
+  min-width: 300px;
+  max-width: 300px;
+  height: 400px;
+  margin-right: 2rem;
+}
+.card-data{
+  flex-direction: column;
+}

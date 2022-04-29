@@ -13,7 +13,7 @@ export default function App() {
         start = {card.startDate}
         end = {card.endDate}
         desc = {card.description}
-        img = {card.imageUrl}
+        imageUrl = {card.imageUrl}
       />
   )
   })
