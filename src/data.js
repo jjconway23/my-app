@@ -7,7 +7,7 @@ export default [
         startDate: "11 Aug, 2021",
         endDate: "28 Aug, 2021",
         description: "Montego Bay, the capital of Saint James Parish on Jamaica’s north coast. Popular beaches include Doctor’s Cave Beach and Walter Fletcher Beach",
-        imageUrl: "../public/photos/jamaica-pic.jpg"
+        imageUrl: "jamaica-pic.jpg"
     },
     {
         id:2,
@@ -17,7 +17,7 @@ export default [
         startDate: "12 Apr, 2018",
         endDate: "26 Apr, 2018",
         description: "Orlando, a city in central Florida, is home to more than a dozen theme parks. Chief among its claims to fame is Walt Disney World.  A large, well-known theme park featuring movie-themed rides & shows, plus hotels & restaurants.",
-        imageUrl: "../public/photos/orlando.jpg"
+        imageUrl: "orlando.jpg"
     },
     {   
         id:3,
@@ -27,7 +27,7 @@ export default [
         startDate: "06 Feb, 2017",
         endDate: "20 Feb, 2017",
         description: "Maracas Bay is a bay with sandy beach on the island of Trinidad. This popular beach with a number of facilities features quiet waters due to the size of its bay.",
-        imageUrl: "../public/photos/trinidad.jpg"
+        imageUrl: "trinidad.jpg"
     }
 
 ]
