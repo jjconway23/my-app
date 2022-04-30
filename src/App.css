@@ -32,13 +32,31 @@ h1,h2,h3,h4{
   color: #DFDCE3;
   font-size: 1.4rem;
 }
+/* card designs */
 .card-img{
   object-fit: cover;
-  min-width: 300px;
-  max-width: 300px;
-  height: 400px;
+  min-width: 250px;
+  max-width: 250px;
+  height: 336px;
   margin-right: 2rem;
 }
 .card-data{
   flex-direction: column;
+}
+.location-container{
+  margin: 2rem 0;
+}
+.location-pin,
+.location-name,
+.google-maps-link{
+  margin-right: 1rem;
+  font-size: 1.4rem;
+}
+.location-name{
+  margin-right: 2rem;
+  font-size: 1.6rem;
+}
+.google-maps-link{
+  color:#918E9B;
+  /* text-decoration: none; */
 }
