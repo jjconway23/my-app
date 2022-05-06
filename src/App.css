@@ -7,8 +7,9 @@ html{
   font-size: 62.5%;
 }
 body{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.6rem;
+  
 }
 header{
   background-color: #4ABDAC;
@@ -76,4 +77,5 @@ h1,h2,h3,h4{
 }
 .travel-description{
   max-width: 65rem;
+  line-height: 1.6;
 }

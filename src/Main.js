@@ -1,6 +1,4 @@
 import React from "react"
-/* <img src={`../public/photos/${props.imageUrl}`} /> */
-{/* <img src="./photos/orlando.jpg " /> */}
 
 export default function Main(props){
     return (
